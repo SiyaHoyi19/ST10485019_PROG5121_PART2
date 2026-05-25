@@ -1,1 +1,8 @@
-
+Added Message ID
+Added Recipient Cell number
+Added Message Text validation
+Added Message hash
+Add send/ disregard and store options
+Added Total message count
+Store as JSON
+Print messages
