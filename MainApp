@@ -1,1 +1,10 @@
-
+Added Registration with retry loop
+Added Login with retry loop
+Added Welcome message
+Added Send message
+Added Recipient
+Added Message Text
+Added Generate ID and Hash
+Added SEND / DISREGARD / STORE option
+Added show recently sent messages option
+Added Total messsage count
