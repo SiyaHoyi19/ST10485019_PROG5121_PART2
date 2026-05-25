@@ -1,1 +1,6 @@
-
+Added Message length tests
+Added Recipient cell number tests option
+Added Message hash tests
+Added Message ID tests
+Added SentMessage Tests
+Added Helper inner class to se messageID for hash testing
