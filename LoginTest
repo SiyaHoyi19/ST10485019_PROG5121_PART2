@@ -1,0 +1,12 @@
+Test Valid Username
+Test Invalid username
+Test Invalid username_no underscore
+Test Invalid username too long
+Test Valid password
+Test Invalid password_no special character
+Test Invalid phone number
+Test Register user success
+Test Login success
+Test Login Failure
+Test Return login status success
+Test Return login status failure
