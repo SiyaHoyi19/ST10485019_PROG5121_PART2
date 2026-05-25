@@ -1,1 +1,6 @@
-
+Added Username Validation
+Added Password Vaalidation
+Added Phone number Validation
+Added Register user
+Added Login user
+Addded Return login status
